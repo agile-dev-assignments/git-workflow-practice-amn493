@@ -7,3 +7,7 @@ I found this article interesting because lots of software developers have troubl
 ## Forked Comment - Mark Bacon
 
 I thought this was a nice summary that emphasized why people can think comments are controversial. I never really thought that comments could be bad and the ideas of conciseness and being brief emphasized in your initial statement are worth pointing out as the body of this article.
+
+## Forked Comment - Emily Nesson
+
+I agree with the article that comments are necessary to make code more readable and shareable. Great summary!
